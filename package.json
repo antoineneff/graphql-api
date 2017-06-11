@@ -25,6 +25,7 @@
   "homepage": "https://github.com/antoineneff/graphql-api#readme",
   "dependencies": {
     "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
     "graphql": "^0.10.1",
     "mongoose": "^4.10.5"
   },
