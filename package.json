@@ -1,0 +1,29 @@
+{
+  "name": "graphql-api",
+  "version": "0.0.1",
+  "description": "Graphql api with node and mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoineneff/graphql-api.git"
+  },
+  "keywords": [
+    "graphql",
+    "api",
+    "mongoose"
+  ],
+  "author": "Antoine Neff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoineneff/graphql-api/issues"
+  },
+  "homepage": "https://github.com/antoineneff/graphql-api#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "graphql": "^0.10.1",
+    "mongoose": "^4.10.5"
+  }
+}
